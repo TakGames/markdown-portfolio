@@ -11,9 +11,3 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-
-
-* Hey
-* Hallo
-* Hi
-* Morgen
