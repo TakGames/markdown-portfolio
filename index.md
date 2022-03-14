@@ -2,20 +2,19 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+* hello
 
 <br>
 
-{% include 02-image.md %}
+* hi
 
 <br>
 
-{% include 03-links.md %}
+* hey
 
 <br>
 
-{% include 04-lists.md %}
+
 
 <br>
 
-{% include 05-emphasis.md %}
