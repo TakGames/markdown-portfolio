@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 * Hey
 * Hallo
 * Hi
